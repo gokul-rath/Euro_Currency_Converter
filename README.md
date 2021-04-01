@@ -1,10 +1,11 @@
 # Currency Convertor Online Data for Euro (€)
 
 Authors:  
+Gokul Selvaraj,
 Wilson Jo Siu,
-Pritish Shivananda Adiga,
-Abhishek Shirsat and
-Gokul Selvaraj
+Pritish Shivananda Adiga and
+Abhishek Shirsat
+
 
 ---
 
