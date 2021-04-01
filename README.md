@@ -18,7 +18,7 @@ On the date 04-08-2020, 1 euro equals to 1.0871 USD or 10436.7232 Vietnamese Don
 
 The type of data we are importinng comes from a european currency converter webpage, but at the same time many of these webpages collect daily data from a single centralized entity, in this case the European Central Bank.
 
-The source of the data can be adquired from multiple webpages, but some of them will not have a free API key to share, in many cases you are required to paid to have quick acess to this kind of information. In the financial market, it is important to be up to date as it will help make the most adequate financial decisions (forecasting, investments or stock market). 
+The source of the data can be adquired from multiple webpages, but some of them will not have a free API key to share, in many cases you are required to pay to have quick acess to this kind of information. In the financial market, it is important to be up to date as it will help make the most adequate financial decisions (forecasting, investments or stock market). 
 
 The source of data is provided by an API currency converter "currency-converter5.p.rapidapi.com"
 
